@@ -1,0 +1,21 @@
+ #container{
+     background-color: white;
+ }
+ 
+ #container div{
+    border: solid 1px black;
+    width: 18px;
+    height: 18px;
+    float: left;
+ }
+
+ /* .etch:hover{
+     background-color: red;
+ } */
+ 
+ button{
+     margin: 10px;
+     border-radius: 50px;
+     background-color: aquamarine;
+ }
+ 
